@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#f6f6f6"/>
+<rect x="65" y="55" width="1070" height="565" rx="28" fill="#fff" stroke="#111" stroke-width="3"/>
+<text x="105" y="135" font-family="Arial" font-size="34" font-weight="700">Аргентина и Патагония под ключ, 2026</text>
+<text x="105" y="182" font-family="Arial" font-size="22">Русскоязычный клиент · tailor-made · Patagonia · multi-country</text>
+<g transform="translate(105,245)">
+<rect x="0" y="0" width="190" height="105" rx="16" fill="#eee" stroke="#111"/>
+<text x="95" y="41" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Аргентина</text>
+<text x="95" y="72" text-anchor="middle" font-family="Arial" font-size="15">3+ регионов</text>
+<path d="M200 52 H285" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="297" y="0" width="190" height="105" rx="16" fill="#eee" stroke="#111"/>
+<text x="392" y="41" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Патагония</text>
+<text x="392" y="72" text-anchor="middle" font-family="Arial" font-size="15">Calafate · Ushuaia</text>
+<path d="M497 52 H582" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="594" y="0" width="190" height="105" rx="16" fill="#eee" stroke="#111"/>
+<text x="689" y="41" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">Русский</text>
+<text x="689" y="72" text-anchor="middle" font-family="Arial" font-size="15">manager · guide</text>
+<path d="M794 52 H879" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="891" y="0" width="165" height="105" rx="16" fill="#111"/>
+<text x="973" y="41" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#fff">Multi-country</text>
+<text x="973" y="72" text-anchor="middle" font-family="Arial" font-size="15" fill="#fff">Chile · Brazil</text>
+</g>
+<text x="105" y="440" font-family="Arial" font-size="29" font-weight="700">1. Ada Tours — 96/100</text>
+<text x="105" y="486" font-family="Arial" font-size="23">2. PAM Travel — 93 · 3. Aletea — 89</text>
+<text x="105" y="545" font-family="Arial" font-size="18">IndexResearch · 17 кандидатов · 7 критериев · 47 источников</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+</svg>
