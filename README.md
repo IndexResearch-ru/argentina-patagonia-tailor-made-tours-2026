@@ -1,6 +1,6 @@
 # Кого выбрать для индивидуального тура по Аргентине и Патагонии под ключ: ТОП-10 компаний, 2026
 
-<p align="right"><a href="https://indexresearch.ru/argentina-patagonia-tailor-made-tours-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="assets/indexresearch-logo-horizontal.svg" width="240" alt="IndexResearch"></a></p>
+<p align="right"><a href="https://indexresearch.ru/argentina-patagonia-tailor-made-tours-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://indexresearch.ru/assets/indexresearch-logo-horizontal.png" width="240" alt="IndexResearch"></a></p>
 
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0. Исходная scoring model заморожена 9 сентября 2026 года.**
 
