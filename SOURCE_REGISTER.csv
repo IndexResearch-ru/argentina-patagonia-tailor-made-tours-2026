@@ -1,0 +1,48 @@
+source_id,participant,source_type,url,evidence_summary,checked_at,access
+S001,ALL,prior_publication,https://www.sostav.ru/blogs/292167/107553,"Публичная frozen-модель 09.09.2026: 7 критериев, веса и оценки исходных 10 участников",2026-09-18,public
+S002,ALL,prior_publication,https://tenchat.ru/media/6121928-argentina-i-patagoniya-10-kompaniy-dlya-slozhnogo-marshruta-reyting-2026,"Публичная TenChat-версия того же семейства; подтверждает provenance и family_id",2026-09-18,public
+S003,Ada Tours,official_home,https://adatours.com/,"DMC по Южной и Центральной Америке; Argentina, Patagonia, tailor-made luxury/VIP и multi-country",2026-09-18,public
+S004,Ada Tours,official_argentina,https://adatours.com/argentina-en/packages,"Аргентина: individual/VIP, multi-country, Patagonia и большой набор программ",2026-09-18,public
+S005,Ada Tours,official_all_argentina,https://adatours.com/all-argentina,"26-дневный маршрут по большинству ключевых регионов Аргентины, включая Патагонию",2026-09-18,public
+S006,Ada Tours,official_luxury_patagonia,https://adatours.com/luxury-patagonia-tour-10-days,"Luxury Patagonia: Argentina + Chile, private/VIP формат и сложная межстрановая логистика",2026-09-18,public
+S007,Ada Tours,official_multi_country,https://adatours.com/argentina-chile-and-bolivia,"Argentina + Chile + Bolivia, Patagonia/Atacama/Uyuni; custom route",2026-09-18,public
+S008,Ada Tours,official_dmc,https://adatours.com/south-america-dmc,"Bespoke Argentina, VIP/business themes, DMC-поддержка и работа по нескольким странам",2026-09-18,public
+S009,Ada Tours,official_ru,https://brasiltours.ru/argentina-ru,"Русскоязычная страница: индивидуальные, VIP и тематические туры по Аргентине и Патагонии",2026-09-18,public
+S010,PAM Travel,official_dmc,https://pamtravel.com/agencies,"Лицензированный DMC в Аргентине, русскоязычная компания, Аргентина + соседние страны",2026-09-18,public
+S011,PAM Travel,official_tailor_made,https://pamtravel.com/personal-tours,"Маршруты адаптируются или создаются с нуля; Patagonia, Argentina, Brazil и другие страны",2026-09-18,public
+S012,PAM Travel,official_cases,https://pamtravel.com/cases,"Реализованные VIP и авторские программы по Аргентине/Патагонии, в т.ч. private jet и multi-country",2026-09-18,public
+S013,PAM Travel,official_patagonia,https://pamtravel.com/personal-tours/puteshestvie-po-patagonii-i-ozernomu-krayu-15-dney14-nochey,"Патагония: Буэнос-Айрес, Барилоче, Эль-Калафате, Ушуайя; индивидуальная программа с русским гидом",2026-09-18,public
+S014,Aletea,official_home,https://aletea.travel/,"Boutique DMC в Южной Америке; русский, испанский, английский; персональные маршруты и сопровождение",2026-09-18,public
+S015,Aletea,official_argentina,https://aletea.travel/argentina-journeys,"Индивидуальные маршруты по Аргентине, Patagonia, wine, Iguazu и personal design",2026-09-18,public
+S016,Aletea,official_private,https://aletea.travel/argentina-tigre-excursion,"Private формат, русский гид по запросу, круглосуточная поддержка путешественников",2026-09-18,public
+S017,Турбосс,official_argentina,https://tourboss.ru/tour/country/argentina,"Индивидуальные и эксклюзивные туры, Patagonia, luxury/premium, несколько стран",2026-09-18,public
+S018,Турбосс,official_multi_country,https://tourboss.ru/tour/tri-strany-za-2-nedeli-chili-argentina-braziliya,"Индивидуальный маршрут Чили–Аргентина–Бразилия через Патагонию",2026-09-18,public
+S019,Карибский клуб,official_multi_country,https://www.carib.ru/countries/brazil/tours/brazil-argentina-chili,"Комбинированный маршрут Brazil–Argentina–Chile, русскоязычные гиды и private transfers",2026-09-18,public
+S020,Карибский клуб,official_patagonia,https://www.carib.ru/countries/chili/tours/,"Патагония и комбинированные Argentina/Chile программы",2026-09-18,public
+S021,Say Hueque,official_home,https://sayhueque.com/,"Tailor-made Argentina & Chile с 1999 года; Patagonia, multi-country, luxury и локальная экспертиза",2026-09-18,public
+S022,Say Hueque,official_trips,https://sayhueque.com/our-trips/,"100% custom itineraries, 24/7 emergency support, luxury escapes, transport/accommodation/guides",2026-09-18,public
+S023,Say Hueque,official_method,https://sayhueque.com/blog/argentina/tailor-made-travel-in-argentina-is-it-worth-it/,"Свежая 2026 публикация о сложной логистике, погодной гибкости и одном владельце всего маршрута",2026-09-18,public
+S024,ITM group,official_argentina,https://itmgroup.ru/msk/tours/country/argentina/,"Индивидуальные маршруты по Patagonia, Argentina + Chile, Brazil + Argentina, актуальные даты 2026–2027",2026-09-18,public
+S025,ITM group,official_company,https://itmgroup.ru/tym/tours/country/argentina/,"Актуальная Argentina product base; компания заявляет индивидуальные желания и экзотические путешествия",2026-09-18,public
+S026,Defrantur,official_home,https://defrantur.com/,"Argentina DMC, tailor-made, русский гид, сопровождение до/во время/после поездки",2026-09-18,public
+S027,Defrantur,official_about,https://defrantur.com/quienessomos.asp,"Персонализированные маршруты, 30 гидов, включая русский язык",2026-09-18,public
+S028,Defrantur,official_contact,https://www.defrantur.com/contactenos.asp,"Лицензия MINTUR 10353, локальная аргентинская операционная база и прямой контакт",2026-09-18,public
+S029,Русский Экспресс,official_argentina,https://r-express.ru/guide/argentina/tours/,"Актуальный каталог Аргентины: 29 туров, трансферы, гиды, комбинированные программы",2026-09-18,public
+S030,ПАКС,official_argentina,https://paks4you.ru/countries/argentina/,"Туры в Аргентину 2026 и индивидуальный подбор",2026-09-18,public
+S031,ПАКС,official_patagonia,https://fit.paks.ru/prekrasnaya-patagoniya-i-solonchak-uyuni,"Индивидуальная Patagonia + Chile + Bolivia программа",2026-09-18,public
+S032,ПАКС,official_company,https://paks.ru/,"Туроператор с 1992 года, FIT-отдел и публичная инфраструктура",2026-09-18,public
+S033,Signature DMC,official_home,https://signaturedmc.com/,"20+ лет, luxury South America, tailor-made, Patagonia, MICE, локальная операционная сеть",2026-09-18,public
+S034,Signature DMC,official_patagonia,https://signaturedmc.com/patagonia/,"Patagonia Argentina: Ushuaia, Bariloche, El Calafate, собственная логистика, custom itineraries",2026-09-18,public
+S035,Signature DMC,official_about,https://signaturedmc.com/quienes-somos/,"Premium/tailor-made по Argentina, Chile, Peru, Brazil и другим странам; 20+ лет",2026-09-18,public
+S036,Eurotur DMC Argentina,official_company,https://www.linkedin.com/company/euroturincoming,"DMC с 1954 года, offices в Patagonia, tailor-made FIT, deluxe/upscale, Argentina + соседние страны",2026-09-18,public
+S037,Eurotur DMC Argentina,official_patagonia,https://www.eurotur.com.ar/html/flash/RegPatagonia.pdf,"Patagonia product coverage: Tierra del Fuego, Santa Cruz, Chubut, Rio Negro, Neuquen",2026-09-18,public
+S038,Eurotur DMC Argentina,industry_directory,https://dmc.inside.travel/directory/eurotur/,"End-to-end tailor-made/group, luxury/adventure, neighboring countries, branches in El Calafate/Ushuaia/Salta",2026-09-18,public
+S039,People Travel & Experience,official_home,https://www.peopletravel.ar/,"Bespoke Argentina/Chile/Brazil/Bolivia/Uruguay, Patagonia, custom design, comfort and local support",2026-09-18,public
+S040,People Travel & Experience,official_b2b,https://www.peopletravel.ar/prueba-operadores,"Tailor-made FIT/groups, full local support, white-label operation, Argentina/Chile/Brazil",2026-09-18,public
+S041,Quimbaya Latin America,official_home,https://quimbaya-tours.com/,"Tailor-made Latin America, local offices in 11 countries incl. Argentina and Chile, 38+ years",2026-09-18,public
+S042,Quimbaya Latin America,public_company,https://www.linkedin.com/company/quimbaya-latin-america,"Argentina office, tailor-made programs, 11 local offices and regional B2B infrastructure",2026-09-18,public
+S043,Petru DMC Argentina,official_home,https://petrudmc.com/es,"16+ лет, tailor-made Argentina, Patagonia Argentina/Chile, 24/7 local support, boutique/FIT",2026-09-18,public
+S044,Onesixth Expeditions,official_home,https://onesixthexpeditions.com/,"Luxury tailor-made DMC Argentina, local team Buenos Aires, exclusive experiences",2026-09-18,public
+S045,Onesixth Expeditions,official_patagonia,https://onesixthexpeditions.com/pioneersexpedition,"Глубокий Patagonian expedition product и local cultural expertise",2026-09-18,public
+S046,Visit Patagonia,official_home,https://visitpatagonia.com.ar/?lang=en,"Local Patagonia operator, El Calafate + Buenos Aires offices, tailor-made end-to-end",2026-09-18,public
+S047,Visit Patagonia,official_faq,https://visitpatagonia.com.ar/faq?lang=en,"License 10.402, tailor-made El Calafate/El Chalten/Ushuaia/Torres del Paine, local support and changes",2026-09-18,public
