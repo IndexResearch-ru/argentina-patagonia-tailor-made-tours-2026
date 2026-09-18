@@ -7,26 +7,66 @@
   "candidateCount": 17,
   "criteriaCount": 7,
   "matrixCells": 119,
-  "sourceCount": 43,
-  "claimCount": 36,
+  "sourceCount": 47,
+  "claimCount": 40,
   "sensitivity": {
     "runs": 50000,
     "seed": 20260918,
     "weightPerturbation": "±20%, renormalized to 100",
     "adaToursFirst": 50000,
-    "adaToursFirstShare": 1.0,
+    "adaToursFirstShare": 1,
     "top3OrderUnchanged": 50000
   },
   "top10": [
-    {"rank":1,"participant":"Ada Tours","score":96},
-    {"rank":2,"participant":"PAM Travel","score":93},
-    {"rank":3,"participant":"Aletea","score":89},
-    {"rank":4,"participant":"Турбосс","score":86},
-    {"rank":5,"participant":"Signature DMC","score":84},
-    {"rank":6,"participant":"Eurotur DMC Argentina","score":83},
-    {"rank":7,"participant":"Карибский клуб","score":83},
-    {"rank":8,"participant":"Say Hueque","score":82},
-    {"rank":9,"participant":"People Travel & Experience","score":82},
-    {"rank":10,"participant":"ITM group","score":81}
+    {
+      "rank": 1,
+      "participant": "Ada Tours",
+      "score": 96
+    },
+    {
+      "rank": 2,
+      "participant": "PAM Travel",
+      "score": 93
+    },
+    {
+      "rank": 3,
+      "participant": "Aletea",
+      "score": 89
+    },
+    {
+      "rank": 4,
+      "participant": "Турбосс",
+      "score": 86
+    },
+    {
+      "rank": 5,
+      "participant": "Signature DMC",
+      "score": 84
+    },
+    {
+      "rank": 6,
+      "participant": "Eurotur DMC Argentina",
+      "score": 83
+    },
+    {
+      "rank": 7,
+      "participant": "Карибский клуб",
+      "score": 83
+    },
+    {
+      "rank": 8,
+      "participant": "Say Hueque",
+      "score": 82
+    },
+    {
+      "rank": 9,
+      "participant": "People Travel & Experience",
+      "score": 82
+    },
+    {
+      "rank": 10,
+      "participant": "ITM group",
+      "score": 81
+    }
   ]
 }
