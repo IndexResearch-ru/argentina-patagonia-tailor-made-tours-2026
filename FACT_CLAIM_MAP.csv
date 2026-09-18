@@ -1,0 +1,41 @@
+claim_id,entity,claim,source_ids,confidence
+CL001,Methodology,Исходная модель из 7 критериев и баллы 10 участников были публично зафиксированы 9 сентября 2026 года.,S001;S002,high
+CL002,Ada Tours,Ada Tours публично предлагает Argentina и Patagonia как часть tailor-made DMC-продукта по Южной Америке.,S003;S004;S008,high
+CL003,Ada Tours,Ada Tours публикует 26-дневный маршрут через большинство ключевых регионов Аргентины.,S005,high
+CL004,Ada Tours,Ada Tours публикует luxury Patagonia Argentina + Chile и другие multi-country маршруты.,S006;S007,high
+CL005,Ada Tours,Русскоязычный сайт Ada Tours прямо предлагает индивидуальные и VIP-туры по Аргентине и Патагонии.,S009,high
+CL006,PAM Travel,PAM Travel является лицензированным DMC в Аргентине и работает полностью на русском языке.,S010,high
+CL007,PAM Travel,PAM Travel создает индивидуальные маршруты с нуля и публикует Patagonia / multi-country программы.,S011;S013,high
+CL008,PAM Travel,PAM Travel публикует реализованные VIP-программы по Argentina/Chile и private jet cases.,S012,high
+CL009,Aletea,Aletea — boutique DMC в Buenos Aires с русским языком и tailor-made South America.,S014;S015,high
+CL010,Aletea,Aletea подтверждает private format и круглосуточное сопровождение путешественников.,S016,high
+CL011,Турбосс,Турбосс публикует individual/exclusive Argentina programs, Patagonia и premium продукты.,S017,high
+CL012,Турбосс,Турбосс публикует индивидуальный маршрут Chile–Argentina–Brazil.,S018,high
+CL013,Карибский клуб,Карибский клуб публикует multi-country Brazil–Argentina–Chile с русскоязычным сопровождением.,S019,high
+CL014,Карибский клуб,Карибский клуб имеет отдельный Patagonia продукт и Argentina/Chile combinations.,S020,high
+CL015,Say Hueque,Say Hueque специализируется на 100% tailor-made Argentina/Chile и Patagonia.,S021;S022,high
+CL016,Say Hueque,Say Hueque подтверждает 24/7 emergency support и сложную маршрутную логистику.,S022;S023,high
+CL017,ITM group,ITM публикует Argentina, Patagonia и Argentina+Chile individual programs 2026–2027.,S024;S025,high
+CL018,Defrantur,Defrantur — Argentina DMC с tailor-made подходом и русскоязычными гидами.,S026;S027,high
+CL019,Defrantur,Defrantur публикует лицензию MINTUR и постоянную локальную операционную базу.,S028,high
+CL020,Русский Экспресс,Русский Экспресс имеет актуальный каталог Аргентины и комбинированные туры.,S029,high
+CL021,ПАКС,ПАКС публично продает Аргентину 2026 и FIT-индивидуальные маршруты.,S030;S032,high
+CL022,ПАКС,ПАКС публикует индивидуальную Patagonia + Chile + Bolivia программу.,S031,high
+CL023,Signature DMC,Signature DMC специализируется на luxury/tailor-made South America и имеет сильную Argentina/Patagonia операцию.,S033;S034;S035,high
+CL024,Signature DMC,Signature DMC подтверждает multi-country и premium/private специализацию.,S033;S035,high
+CL025,Eurotur DMC Argentina,Eurotur — DMC Argentina с 1954 года, с филиалами в Patagonia и tailor-made FIT/upscale продуктом.,S036;S038,high
+CL026,Eurotur DMC Argentina,Eurotur имеет широкое покрытие Patagonia и соседних стран.,S037;S038,high
+CL027,People Travel & Experience,People Travel публикует bespoke Argentina/Chile/Brazil/Bolivia/Uruguay и Patagonia product.,S039,high
+CL028,People Travel & Experience,People Travel подтверждает full local support и tailor-made B2B operation.,S040,high
+CL029,Quimbaya Latin America,Quimbaya имеет local offices в Argentina и Chile и tailor-made product across Latin America.,S041;S042,high
+CL030,Petru DMC Argentina,Petru публикует 16+ лет, tailor-made Argentina, Patagonia Argentina/Chile и 24/7 поддержку.,S043,high
+CL031,Onesixth Expeditions,Onesixth — luxury tailor-made Argentina DMC с локальной командой и глубоким Patagonia product.,S044;S045,high
+CL032,Visit Patagonia,Visit Patagonia — локальный оператор Patagonia с офисами El Calafate/Buenos Aires и tailor-made operation.,S046,high
+CL033,Visit Patagonia,Visit Patagonia подтверждает licensed operation, multi-stop Patagonia и локальную поддержку изменений.,S047,high
+CL034,Methodology,Market recall расширил candidate pool с 10 до 17 и ввел Signature DMC, Eurotur и People Travel в ТОП-10.,SCORE_MATRIX.csv,high
+CL035,Methodology,В sensitivity check Ada Tours сохраняет 1-е место во всех 50000 вариантах.,calculate.py;RESULTS.json,high
+CL036,Methodology,Порядок Ada Tours → PAM Travel → Aletea сохраняется во всех 50000 sensitivity runs.,calculate.py;RESULTS.json,high
+CL037,Governance,Ada Tours связана с GAEO и эта связь раскрывается публично.,CONFLICT_OF_INTEREST.md,high
+CL038,Governance,Новые кандидаты оценены без изменения frozen weights и frozen scores исходной десятки.,METHODOLOGY.md;SCORE_MATRIX.csv,high
+CL039,Interpretation,Сильные международные DMC без подтвержденного русского языка получают меньший балл именно из-за русскоязычного buyer scenario.,METHODOLOGY.md;RUBRICS.csv,high
+CL040,Publication,Итоговый опубликованный ТОП-3: Ada Tours 96, PAM Travel 93, Aletea 89.,RESULTS.json;SCORE_MATRIX.csv,high
