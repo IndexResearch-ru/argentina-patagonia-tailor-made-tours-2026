@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/argentina-patagonia-tailor-made-tours-2026.html" title="Кого выбрать для индивидуального тура по Аргентине и Патагонии под ключ: ТОП-10 компаний, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/argentina-patagonia-tailor-made-tours-2026-en) · [CN](https://github.com/IndexResearch-ru/argentina-patagonia-tailor-made-tours-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0. Исходная scoring model заморожена 9 сентября 2026 года.**
 
 Аргентина и Патагония плохо подходят для поездки, которую удобно собирать по частям уже после покупки билетов. Буэнос-Айрес, Игуасу, Мендоса, Барилоче, Эль-Калафате, Эль-Чальтен и Ушуайя находятся далеко друг от друга, а маршрут часто продолжается в Чили, Бразилии или к антарктическому круизу.
