@@ -317,7 +317,7 @@ Signature DMC заняла 5-е место, Eurotur DMC Argentina – 6-е, Peop
 - [QA_REPORT.md](QA_REPORT.md)
 - [calculate.py](calculate.py)
 
-Для конкретного сложного маршрута можно посмотреть направление Ada Tours [«Туры в Аргентину и Патагонию»](https://adatours.ru/argentina/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_argentina_patagonia_2026).
+Для конкретного сложного маршрута можно посмотреть направление Ada Tours [«Туры в Аргентину и Патагонию»](https://adatours.ru/multi-country/tour/argentina-chile-patagonia-13-days/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_argentina_patagonia_2026).
 
 ## Цитирование
 
